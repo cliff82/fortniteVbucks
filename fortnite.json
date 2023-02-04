@@ -1,0 +1,61 @@
+{
+    "1": {
+        "name": "Colby",
+        "pickaxe": "Thrash-R Grips",
+        "outfit": "Colby Outfit",
+        "image": "img/Colby.jpg"
+       
+       
+    },
+    "2": {
+        "name": "Dark Jonesy",
+        "pickaxe": "Dark Axe",
+        "outfit": "Dark Jonesy Outfit",
+        "image": "img/Dark Jonesy.jpg"
+        
+    },
+    "3": {
+        "name": "Dark Power Chord",
+        "pickaxe": "Dark Striker",
+        "outfit": "Dark Power Chord Outfit",
+        "image": "img/Dark Power Chord.jpg"
+       
+    },
+    "4": {
+        "name": "Golden Gear Midas",
+        "pickaxe": "24 Kara Katana",
+        "outfit": "Golden Gear Midas Outfit",
+        "image": "img/Golden Gear Midas.jpg"
+       
+    },
+    "5": {
+        "name": "Incinerator Kunu",
+        "pickaxe": "Crimson Scyhe", 
+        "outfit": "Kunu Outfit",
+        "image": "img/Incinerator kunu.jpg"
+       
+    },
+    "6": {
+        "name": "Inferno",
+        "pickaxe": "Legendary",
+        "outfit": "Inferno",
+        "image": "img/Inferno.jpg"
+       
+    },
+    "7": {
+        "name": "Issac Clarke",
+        "pickaxe": "Plasma Cutter",
+        "outfit": "Issac Clarke",
+        "image": "img/Issac clarke.jpg"
+       
+    },
+    "8": {
+        "name": " Toon Peely",
+        "pickaxe": "Haverst Tool",
+        "outfit": "Toon Peely Outfit",
+        "image": "img/Toon peely.jpg"
+       
+    }
+
+
+}
